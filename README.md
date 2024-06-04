@@ -1,9 +1,9 @@
 # Human_time_use_mosqutio_bite_exposure_analysis
 
 <h3>This is a partial analysis. I will be sharing the complete analysis once the Research Paper is published.</h3>
-
+<b>!!! This readme file is meant to give you a glance at the contents. Please go through the files for detailed analysis</b>
 <h4>Contents</h4>
-- This repo has four important files, two Python notebooks, and two PDF files of the same notebooks, which are used to analyze the visuals as they were created.
+- This repo has four important files, two Python notebooks, and two PDF files of the same notebooks, which are used to analyze the visuals as they were created.<br>
 <b>Note:</b> A Few cells in the Python notebooks are removed to protect the privacy of the Research work and will be shared once the Paper is published
 <br>
 <hr>
